@@ -149,3 +149,18 @@ ul li{
     padding: 0 1.5rem;
 
 }
+/* blogs*/
+.blog{
+    color:var(--primary-color);
+    font-size: 1.5rem;
+    padding-top:1rem;
+}
+.container1{
+    max-width : 50%;
+    margin : auto;
+    padding : 2rem 2rem;
+}
+.smallblog{
+    display: block;
+    padding-top: 0.5rem;
+}
