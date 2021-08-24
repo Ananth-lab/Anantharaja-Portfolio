@@ -44,6 +44,7 @@ nav{
 }
 section{
     text-align: center;
+    padding : 1rem;
 }
 .feature-image{
     max-width : 400px;
@@ -68,8 +69,9 @@ div.container-main{
     
 }
 h2.container-heading{
-    font-size: 2rem;
+    font-size: 1.5rem;
     padding-top: 2.5rem ;
+
 }
 .container-para{
     text-align: center;
@@ -82,7 +84,7 @@ div.container1-main{
     margin : auto;
 }
 h2.container1-heading{
-    font-size: 2rem;
+    font-size: 1.5rem;
     padding-top: 2.5rem ;
     margin-top : 0;
 
@@ -100,6 +102,14 @@ a.primary-button{
     border-radius: 0.5rem;
     padding : 0.5rem 1rem;  
 }
+a.secondary-button{
+    border-style: solid;
+    background-color: var(--secondary-color);
+    text-decoration :none;
+    border-radius: 0.5rem;
+    color: var(--primary-color);
+    padding : 0.5rem 1rem;   
+}
 div.container2-main{
     text-align: center;
     margin : auto;
@@ -116,14 +126,7 @@ h2.container2-heading{
     padding : 2rem 3rem;
     margin :auto;
 }
-a.secondary-button{
-    border-style: solid;
-    background-color: var(--secondary-color);
-    text-decoration :none;
-    border-radius: 0.5rem;
-    color: var(--primary-color);
-    padding : 0.5rem 1rem;   
-}
+
 footer{
     background-color: var(--primary-color);
     border-top-right-radius: 1.1rem;
