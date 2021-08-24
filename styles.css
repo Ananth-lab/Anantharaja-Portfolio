@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@800&display=swap');
+:root{
+    --primary-color : #1D4ED8;
+    --secondary-color : #ffffff;
+    --secondary-text-color :#1d1d1d93;
+    --background-color : #ebe9e9ce;
+}
+body{
+    padding : 0;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+.nav-header{
+background-color: var(--primary-color);
+border-bottom-left-radius: 1.1rem;
+padding-bottom: 0.1rem;
+}
+.list{
+    list-style: none;
+    display : inline;
+    padding : 1rem;
+}
+ul{
+    text-align: right;
+    margin-top: 0;
+}
+a{
+    text-decoration: none;
+    color : var(--secondary-color);  
+}
+a:active{
+    color: var(--secondary-text-color);
+}
+
+.top-header{
+    margin :0;
+    padding-top: 1rem;
+    padding-left:1.5rem;  
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+nav{
+    color : var(--secondary-color);
+}
+section{
+    text-align: center;
+}
+.feature-image{
+    max-width : 400px;
+    margin : auto;
+    padding-top: 2rem;
+}
+.main-heading{
+    color :var(--secondary-text-color);
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 5rem;
+}
+.section-1{
+    color: var(--primary-color);
+    display: inline;
+}
+div.container-main{
+    text-align: center;
+    margin : auto;
+    background-color: var(--background-color);
+    
+}
+h2.container-heading{
+    font-size: 2rem;
+    padding-top: 2.5rem ;
+}
+.container-para{
+    text-align: center;
+    padding : 2rem 3rem;
+    margin: auto;
+    width : 65%;
+}
+div.container1-main{
+    text-align: center;
+    margin : auto;
+}
+h2.container1-heading{
+    font-size: 2rem;
+    padding-top: 2.5rem ;
+    margin-top : 0;
+
+}
+.container1-para{
+    text-align: center;
+    width :65%;
+    padding : 2rem 2rem;
+    margin :auto;
+    
+}
+a.primary-button{
+    background-color: var(--primary-color);
+    text-decoration :none;
+    border-radius: 0.5rem;
+    padding : 0.5rem 1rem;  
+}
+div.container2-main{
+    text-align: center;
+    margin : auto;
+    background-color: var(--background-color);
+    height : 17rem;
+}
+h2.container2-heading{
+    font-size: 2rem;
+    padding-top: 2.5rem ;
+}
+.container2-para{
+    text-align: center;
+    width :65%;
+    padding : 2rem 3rem;
+    margin :auto;
+}
+a.secondary-button{
+    border-style: solid;
+    background-color: var(--secondary-color);
+    text-decoration :none;
+    border-radius: 0.5rem;
+    color: var(--primary-color);
+    padding : 0.5rem 1rem;   
+}
+footer{
+    background-color: var(--primary-color);
+    border-top-right-radius: 1.1rem;
+}
+ul.footer-links{
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 0;
+    text-align: center;
+    padding-bottom: 1.3rem;
+}
+h2.footer-heading{
+    padding-top :2rem;
+    margin-top: 0;
+    color :var(--secondary-color);
+    text-align: center;
+}
+ul li{
+    display: inline;
+    padding: 0 1.5rem;
+
+}
