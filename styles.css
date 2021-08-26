@@ -47,7 +47,7 @@ section{
     padding : 1rem;
 }
 .feature-image{
-    max-width : 400px;
+    max-width :50%;
     margin : auto;
     padding-top: 2rem;
 }
