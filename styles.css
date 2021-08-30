@@ -64,6 +64,7 @@ section{
 }
 div.container-main{
     text-align: center;
+    width : 60%;
     margin : auto;
     background-color: var(--background-color);
     
@@ -82,6 +83,7 @@ h2.container-heading{
 div.container1-main{
     text-align: center;
     margin : auto;
+    width : 60%;
 }
 h2.container1-heading{
     font-size: 1.5rem;
@@ -113,9 +115,10 @@ a.secondary-button{
 div.container2-main{
     text-align: center;
     margin : auto;
-    padding-bottom: 1rem;
+    padding-bottom: 3rem;
     background-color: var(--background-color);
     height : 17rem;
+    width : 60%;
 }
 h2.container2-heading{
     font-size: 2rem;
