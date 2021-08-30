@@ -44,7 +44,7 @@ nav{
 }
 section{
     text-align: center;
-    padding : 1rem;
+    padding-bottom :1.5rem;
 }
 .feature-image{
     max-width :50%;
@@ -71,12 +71,11 @@ div.container-main{
 h2.container-heading{
     font-size: 1.5rem;
     padding-top: 2.5rem ;
-
+    
 }
 .container-para{
-    text-align: center;
     padding : 2rem 3rem;
-
+    text-align: start;
     margin: auto;
     width : 65%;
 }
@@ -88,10 +87,10 @@ h2.container1-heading{
     font-size: 1.5rem;
     padding-top: 2.5rem ;
     margin-top : 0;
-
-}
-.container1-para{
     text-align: center;
+}
+p.container1-para{
+    text-align: start;
     width :65%;
     padding : 2rem 2rem;
     margin :auto;
@@ -114,15 +113,17 @@ a.secondary-button{
 div.container2-main{
     text-align: center;
     margin : auto;
+    padding-bottom: 1rem;
     background-color: var(--background-color);
     height : 17rem;
 }
 h2.container2-heading{
     font-size: 2rem;
     padding-top: 2.5rem ;
+    text-align: center;
 }
 .container2-para{
-    text-align: center;
+    text-align: start;
     width :65%;
     padding : 2rem 3rem;
     margin :auto;
