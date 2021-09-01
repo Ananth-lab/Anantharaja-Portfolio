@@ -2,11 +2,6 @@
 # Potfolio
 Personal website to demonstrate the project which I have been working on and few blogs which I would like to write.
 
-## Acknowledgements
-
- - [Know more about the Translator](https://funtranslations.com/minion)
- - [Learn this at NEOG-camp](https://youtu.be/yLZazznWoAs)
- 
 
   
 ## Netlify
