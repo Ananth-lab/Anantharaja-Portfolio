@@ -6,7 +6,7 @@ Personal website to demonstrate the project which I have been working on and few
   
 ## Netlify
 
-Deployed in Netilify
+Deployed in Netlify
 
 
 
